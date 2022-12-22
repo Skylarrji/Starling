@@ -1,6 +1,8 @@
-# Source Code + Display
-Source Code: https://curlyrug3.qoom.space/starling/homeindex.html
-Display: https://curlyrug3.qoom.space/edit/starling/homeindex.html
+# Source Code
+https://curlyrug3.qoom.space/starling/homeindex.html
+
+# Display
+https://curlyrug3.qoom.space/edit/starling/homeindex.html
 
 # Inspiration
 We were inspired by the already existing Reflectly and Daily.io apps, which target users to track the things that they did throughout the day as well as what made them happy, sad, frustrated, etc. However, we realized that these apps don't provide a place where you can set goals for yourself to expand your comfort zone and increase your productivity while providing these services at the same time, so we created Starling in order to accomplish that.
