@@ -5,7 +5,7 @@ https://curlyrug3.qoom.space/starling/homeindex.html
 https://curlyrug3.qoom.space/edit/starling/homeindex.html
 
 # Inspiration 📝
-We were inspired by the already existing Reflectly and Daily.io apps, which target users to track the things that they did throughout the day as well as what made them happy, sad, frustrated, etc. However, we realized that these apps don't provide a place where you can set goals for yourself to expand your comfort zone and increase your productivity while providing these services at the same time, so we created Starling in order to accomplish that.
+We were inspired by the already existing Reflectly and Daily.io apps, which target users to track the things that they did throughout the day as well as what made them happy, sad, frustrated, etc. However, we realized that these apps don't provide a place where you can set goals for yourself to expand your comfort zone and increase your productivity while providing these services at the same time, so we created Starling to accomplish that.
 
 # What it does 🖋️
 Starling aims to help individuals step out of their comfort zones. We do this by asking for user input (their goals, how productive their day was, and what they are grateful for) and providing them with generated inspirational quotes looking to give them motivation and hope in order to make their days as productive as possible.
